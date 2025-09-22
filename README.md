@@ -22,10 +22,7 @@ pages/
 login_page.dart # Login/Register UI with input validation
 home_page.dart # Home screen after login with greeting + logout
 
-yaml
-Copy code
 
----
 
 ## Features
 - **Register**: Create new users with full name, email, and password.
@@ -38,28 +35,6 @@ Copy code
   - Email format validation.
   - Password must be at least 6 characters.
 
----
-
-## Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/DVv66/babylon-app.git
-   cd babylon-app
-Install dependencies:
-
-bash
-Copy code
-flutter pub get
-Run the app (Web example):
-
-bash
-Copy code
-flutter run -d chrome --web-hostname 127.0.0.1 --web-port 5500
-Firebase setup:
-
-Firebase project already created and configured via flutterfire configure.
-
-firebase_options.dart included for initialization.
 
 Testing Scenarios
 ✅ New user registration → full name saved + greeting shown.
