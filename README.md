@@ -62,3 +62,8 @@ Persist login state across restarts with a splash/loading screen.
 Add **form error messages** with clearer UI feedback for invalid inputs. 
 
 Add **loading indicators** during login/registration requests for better UX.  
+
+## Images
+<img width="929" height="917" alt="360截图20250922163721" src="https://github.com/user-attachments/assets/91d553f5-53c8-4073-a5c8-71757a4714fd" />
+<img width="929" height="917" alt="360截图20250922163747" src="https://github.com/user-attachments/assets/4436d058-19d8-4736-96ea-ae18a7256597" />
+<img width="1337" height="415" alt="360截图20250922172413" src="https://github.com/user-attachments/assets/94c1aaaf-d83c-4c70-b25d-ff8dca92b405" />
