@@ -68,14 +68,14 @@ Testing Scenarios
 
 ✅ Logout → redirected back to Login Page.
 
-##Challenges
+## Challenges
 Setting up FlutterFire CLI and Firebase CLI on Windows required enabling Developer Mode for symlink support.
 
 Authentication errors when pushing to GitHub were resolved by switching to PAT (Personal Access Token).
 
 Managing input validation for both login and registration in a single form.
 
-##Possible Improvements
+## Possible Improvements
 Add password reset via Firebase.
 
 Add persistent login state across app restarts.
