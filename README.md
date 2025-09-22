@@ -6,8 +6,8 @@ It demonstrates a simple **Flutter app** integrated with **Firebase Authenticati
 ---
 
 ## Objective
-- Build a Flutter app with Firebase Authentication.
-- Provide a Login Page with **Full Name, Email, and Password**.
+- Build a Flutter app with Firebase Authentication.  
+- Provide a Login Page with **Full Name, Email, and Password**.  
 - Create a Home Page greeting the user by their full name and including a logout button.
 
 ---
@@ -15,11 +15,15 @@ It demonstrates a simple **Flutter app** integrated with **Firebase Authenticati
 ## Project Structure
 lib/
 main.dart # App entry point, Firebase initialization, routing
+
 firebase_options.dart # Auto-generated Firebase configuration
 services/
+
 auth_service.dart # Handles registration, login, logout logic
 pages/
+
 login_page.dart # Login/Register UI with input validation
+
 home_page.dart # Home screen after login with greeting + logout
 
 
