@@ -51,10 +51,10 @@ Authentication errors when pushing to GitHub were resolved by switching to PAT (
 Managing input validation for both login and registration in a single form.
 
 ## Possible Improvements
-Add password reset via Firebase.
+Add **password reset** (send password reset email).  
 
-Add persistent login state across app restarts.
+Persist login state across restarts with a splash/loading screen.  
 
-Improve UI/UX with Material 3 widgets.
+Add **form error messages** with clearer UI feedback for invalid inputs. 
 
-Extend support for Android and iOS with full Firebase configuration.
+Add **loading indicators** during login/registration requests for better UX.  
